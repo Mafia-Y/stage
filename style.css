@@ -1,0 +1,468 @@
+.pageone{
+    height: 97vh;
+    display: block;
+}
+
+
+.logo{
+    width: 200px;
+    height: 80px;
+    padding-left: 50px;
+    display: inline-block;
+}
+
+.navbar{
+    display: inline-block;
+    width: 450px;
+    margin-left: 800px;
+    position: absolute;
+    padding-top: 30px;
+
+}
+
+.navbar a{
+    text-decoration: none;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    color: black;
+    margin-left: 20px;
+}
+
+.pagetwo{
+    height: 40vh;
+    padding-top: 0;
+    display: block;
+}
+
+.e{
+    display: inline-block;
+    width: 30%;
+    margin-left: 20px;
+    top: 0%;
+}
+
+.etapes{
+    display: block;
+    margin-top: 0;
+    margin-bottom: 10px;
+    padding-top: 0%;
+    width: 65%;
+    height: 400px;
+    position: absolute;
+    margin-left: 300px;
+}
+
+.e h1{
+    margin-top: 0%;
+    margin-bottom: 7px;
+    color: #2A9099;
+    font-family: "Verdana", Sans-serif;
+    font-size: 73px;
+}
+
+.e h3{
+    margin-top: 0%;
+    color: #000000;
+    font-family: "Verdana", Sans-serif;
+}
+.e p{
+    font-family: Tahoma, Geneva, Verdana, sans-serif;
+    text-align: left;
+    font-size: 15px;
+    font-weight: 100;
+}
+
+.cardss {
+    margin-top: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+.grid {
+    display: inline-block;
+    width: 20em;
+    grid-gap: 6rem;
+    grid-template-columns: repeat(auto-fit, minmax(30rem,1fr));
+    align-items: flex-start;
+}
+
+.grid-item {
+    background-color: #fff;
+    border-radius: 0.4rem;
+    overflow: hidden;
+    box-shadow: 0 3rem 6rem rgba(0,0,0,0.1);
+}
+
+
+
+.card-img{
+    display: block;
+    width: 100%;
+    height: 20rem;
+    object-fit: cover;
+}
+
+.card-content{
+    padding: 3rem;
+}
+
+.card-header {
+    font-size: 3rem;
+    font-weight: 500;
+    color: #0d0d0d;
+    margin-bottom: 1.5rem;
+}
+.card_text{
+    font-size: 1.6rem;
+    letter-spacing: 0.1rem;
+    line-height: 1.7;
+    color: #3d3d3d;
+    margin-bottom: 2.5rem;
+}
+
+
+.imgs-container{
+    width: 1180px;
+    margin-left: 200px;
+}
+
+.cardimgcont{
+    display: inline-block;
+    width: 32.33%;
+}
+
+.thecardimg{
+    width: 95%;
+}
+
+.thebigtitlecont{
+    display: flex;
+    align-items: flex-start;
+}
+
+.titlecont{
+    display: inline-block;
+    width: 33.33%;
+}
+
+.cardh2first{
+    font-family: Josefin Sans,sans-serif;
+    color: #000000;
+    font-size: 22px;
+    font-weight: 400;
+    text-align: left;
+    box-sizing: border-box;
+}
+
+.cardh2sec{
+    font-family: Josefin Sans,sans-serif;
+    color: #000000;
+    font-size: 22px;
+    font-weight: 400;
+    text-align: left;
+    box-sizing: border-box;
+}
+
+.cardh2third{
+    font-family: Josefin Sans,sans-serif;
+    color: #000000;
+    font-size: 22px;
+    font-weight: 400;
+    text-align: left;
+    box-sizing: border-box;
+}
+
+
+.thetextcontainer{
+    display: flex;
+    align-items: flex-start;
+}
+
+.cardtext{
+    display: inline-block;
+    color: #54595f;
+    font-size: 17px;
+    font-family: Josefin Sans,sans-serif;
+    line-height: 1.7em;
+    width: 31%;
+    font-weight: 400;
+    margin-right: 17px;
+}
+
+
+.cardsp{
+    margin-top: 0px;
+}
+
+.contactform{
+    height: 100vh;
+}
+
+.lines{
+    width: 1100px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.line1{
+    display: inline-block;
+    width: 548px;
+}
+
+.input{
+    width: 100%;
+    padding: 15px;
+    box-sizing: border-box;
+    margin-bottom: 25px;
+    border: 2px solid #ececec;
+    font-style: "Inter",Sans-serif;
+    font-weight: 500;
+    font-size: 1rem;
+    text-transform: uppercase;
+    outline: none;
+}
+
+.flinput{
+    width: 98%;
+}
+
+.z{
+    width: 1090px;
+    margin-left: 201px;
+}
+
+.subbtn{
+    background-color: #1f8a9e !important;
+    color: #fff !important;
+    border: 1px solid #1f8a9e;
+    border-radius: 1px;
+    padding: 12px 30px;
+    margin-top: 20px;
+    font-family: "Rajdhani",Sans-serif;
+    font-size: 1rem;
+    font-weight: 500;
+    text-transform: uppercase;
+}
+
+.btn{
+    width: 250px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.demdevis{
+    height: 100vh;
+    padding: 20px;
+}
+.demdevcont{
+    width: 900px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.dempren{
+    display: inline-block;
+    width: 49%;
+    float: right;
+}
+
+.demnom{
+    display: inline-block;
+    width: 49%;
+}
+
+.flinputs{
+    width: 100%;
+
+}
+
+.fllabels{
+    width: 100%;
+}
+
+.fldem{
+    width: 100%;
+}
+
+.fllabel1, .fllabel2{
+    display: inline-block;
+    width: 49%;
+}
+
+.fllabel2{
+    float: right;
+}
+
+.devsecl, .devthl{
+    width: 100%;
+}
+
+.secllabels, .thllabels{
+    width: 100%;
+}
+
+.seclinputs, .thlinputs{
+    width: 100%;
+}
+
+.seclinp, .thlinp{
+    width: 100%;
+}
+
+.therad{
+    display: block;
+}
+
+.et{
+    color: red;
+}
+
+.fourthllabels, .fourthlinputs{
+    width: 100%;
+}
+
+.fourthllabel1, .fourthllabel2, .fourthlinput1, .fourthlinput2{
+    display: inline-block;
+    width: 49%;
+}
+
+.fourthllabel2, .fourthlinput2{
+    float: right;
+}
+
+.fourthlsel, .fourthlnb{
+    width: 100%;
+}
+
+.fifthllabels, .fifthlinputs{
+    width: 100%;
+}
+
+.fifthllabel1, .fifthlinput1, .fifthlmsg{
+    width: 100%;
+}
+
+.demdevis{
+    font-style: "Inter",Sans-serif;;
+}
+
+.subbtndem{
+    background-color: #000000 !important;
+    color: #fff !important;
+    border: 1px solid #000000;
+    border-radius: 1px;
+    padding: 12px 30px;
+    margin-top: 20px;
+    font-family: "Rajdhani",Sans-serif;
+    font-size: 1rem;
+    font-weight: 500;
+    text-transform: uppercase;
+}
+
+.btndem{
+    width: 150px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.q{
+    padding: 13px;
+    box-sizing: border-box;
+    margin-bottom: 5px;
+    margin-top: 5px;
+    border: 2px solid #ececec;
+    font-style: "Inter",Sans-serif;
+    font-weight: 500;
+    font-size: 1rem;
+    text-transform: uppercase;
+    outline: none;
+}
+
+.rad .therad{
+    margin-top: 5px;
+    margin-bottom: 7px;
+}
+
+.beforecardstext{
+    width: 100%;
+    text-align: center;
+    margin-bottom: 35px;
+}
+
+.precardh2, .predevh2{
+    font-family: Josefin Sans,sans-serif;
+    font-size: 20px;
+}
+
+.beforedevtext{
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.blue{
+    color: #1f818a;
+}
+.beforcontact{
+    width: 950px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.bcontainer{
+    width: 100%;
+    display: table;
+}
+
+.lefttext, .adphem1{
+    width: 25%;
+    display: table-cell;
+    margin: 0;
+}
+
+.rec h1,.recc h1{
+    font-family: "Oswald",Sans-serif;
+    font-size: 2.2rem;
+    font-weight: 650;
+    text-align: center;
+    margin: 0;
+}
+.rec, .recc{
+    display: inline-block;
+}
+
+.recc h1{
+    letter-spacing: 1px;
+}
+
+.address h3{
+
+    letter-spacing: 0px;
+    margin-bottom: 3px;
+    color: #040d18;
+    font-family: "Oswald",Sans-serif;
+    font-size: 1.6rem;
+    font-weight: 800;
+}
+
+.address{
+    margin: 0;
+}
+
+.info p{
+    color: #040d18;
+    font-family: "Inter",Sans-serif;
+    font-size: 1rem;
+    font-weight: 400;
+    line-height: 1.3em;
+}
+
+.beforcontact{
+    margin-bottom: 80px;
+}
+
+.info p{
+    margin: 0;
+}
